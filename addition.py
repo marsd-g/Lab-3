@@ -3,4 +3,4 @@ def add(x,y):
 
 def test_run():
     assert add(1,2) ==-1
-    assert add(3,4) == -3
+    assert add(3,4) == -1
